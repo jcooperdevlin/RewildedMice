@@ -1,0 +1,33 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1553021689740
+param	collapse	false
+param	cls	/Users/devlij03/Google Drive/Png/Ken_transfer/3.15/GSEA/MLN_meta.cls#lab_versus_wild
+param	plot_top_x	20
+param	norm	meandiv
+param	save_rnd_lists	false
+param	median	false
+param	num	100
+param	scoring_scheme	weighted
+param	make_sets	true
+param	mode	Max_probe
+param	gmx	gseaftp.broadinstitute.org://pub/gsea/gene_sets_final/c7.all.v6.2.symbols.gmt
+param	gui	false
+param	metric	Signal2Noise
+param	rpt_label	my_analysis
+param	help	false
+param	order	descending
+param	out	/Users/devlij03/gsea_home/output/mar19
+param	create_svgs	false
+param	permute	phenotype
+param	rnd_type	no_balance
+param	set_min	15
+param	include_only_symbols	true
+param	sort	real
+param	create_gcts	false
+param	rnd_seed	timestamp
+param	nperm	1000
+param	zip_report	false
+param	set_max	500
+param	res	/Users/devlij03/Google Drive/Png/Ken_transfer/3.15/GSEA/MLN_gene_exp_gsea.txt
+
+file	/Users/devlij03/gsea_home/output/mar19/my_analysis.Gsea.1553021689740/index.html

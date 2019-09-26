@@ -1,0 +1,87 @@
+id	Sample.Number	Sample.name	RFID	Genotype	Environment	Weight_gain.	Wedge_cage	Gender	Pregnant	Diarrhea	Tissue	Flow.date
+30-10	11	30_10_lab_Atg(H) 	E9 AtgH PBMC 30-10 lymph.fcs	AtgH	lab	18.56540084	2537330	M	N	N	blood	28-Jul
+30-21	12	30_21_lab_Atg(H) 	E7 AtgH PBMC 30-21 lymph.fcs	AtgH	lab	6.912442396	2537330	M	N	N	blood	28-Jul
+30-33	13	30_33_lab_Atg(H) 	E10 AtgH PBMC 30-33 lymph.fcs	AtgH	lab	14.79820628	2537330	M	N	N	blood	28-Jul
+30-36	14	30_36_lab_Atg(H) 	E11 AtgH PBMC 30-36 lymph.fcs	AtgH	lab	8.75	2537330	M	N	N	blood	28-Jul
+30-9	15	30_9_lab_Atg(H) 	E8 AtgH PBMC 30-9 lymph.fcs	AtgH	lab	23.65145228	2537330	M	N	N	blood	28-Jul
+32-1	23	32_1_lab_Atg(W) 	D1 AtgW PBMC 32-1 lymph.fcs	B6	lab	1.976284585	2537332	M	N	N	blood	28-Jul
+32-2	24	32_2_lab_Atg(W) 	D2 AtgW PBMC 32-2 lymph.fcs	B6	lab	5.603448276	2537332	M	N	N	blood	28-Jul
+32-5	25	32_5_lab_Atg(W) 	D3 AtgW PBMC 32-5 lymph.fcs	B6	lab	6.694560669	2537332	M	N	N	blood	28-Jul
+32-8	26	32_8_lab_Atg(W) 	D4 AtgW PBMC 32-8 lymph.fcs	B6	lab	3.8647343	2537332	M	N	N	blood	28-Jul
+504954	41	504954_Atg(W)	C3 AtgW 504954 PBMC lymph.fcs	B6	wild	54.83870968	3	F	Y	N	blood	4-Aug
+505048	42	505048_Atg(W)	E7 AtgW 505048 PBMC lymph.fcs	B6	wild	-4.867256637	8	M	N	N	blood	4-Aug
+505049	43	505049_Atg(W)	E6 AtgW 505049 PBMC lymph.fcs	B6	wild	2.941176471	8	M	N	N	blood	4-Aug
+505050	53	505050_NOD2	E3 NOD2 505050 PBMC lymph.fcs	NOD2	wild	0	7	M	N	N	blood	4-Aug
+505054	66	505054_Atg(E)	D9 AtgE505054 PBMC lymph.fcs	AtgE	wild	51.78571429	3	F	N	N	blood	4-Aug
+505057	54	505057_NOD2	D6 NOD2 505057 PBMC lymph.fcs	NOD2	wild	-0.462962963	7	M	N	N	blood	4-Aug
+505149	75	505149_Atg(H)	C8 AtgH 505149 PBMC lymph.fcs	AtgH	wild	-3.29218107	7	M	N	N	blood	4-Aug
+505150	44	505150_B6	D5 B6 505150 PBMC lymph.fcs	B6	wild	33.9869281	3	F	N	N	blood	4-Aug
+505248	86	505248_NOD2	E1 NOD2 505248 PBMC lymph.fcs	NOD2	wild	7.142857143	7	M	N	N	blood	4-Aug
+505349	67	505349_Atg(E)	D1 AtgE 505349 PBMC lymph.fcs	AtgE	wild	29.94350282	4	F	N	N	blood	4-Aug
+505350	68	505350_Atg(E)	C13 AtgE PBMC 505350 lymph.fcs	AtgE	wild	22.395833	5	F	N	N	blood	4-Aug
+505449	85	505449_Atg(E)	D11 AtgE 505449 PBMC lymph.fcs	AtgE	wild	45.16129032	3	F	N	Y	blood	4-Aug
+505452	45	505452_Atg(W)	E9 AtgW 505452 PBMC lymph.fcs	B6	wild	28.94736842	4	F	Y	N	blood	4-Aug
+505551	46	505551_B6	D1 B6 505551 PBMC lymph.fcs	B6	wild	2.409638554	7	M	N	N	blood	4-Aug
+505556	69	505556_Atg(E)	D3 AtgE 505556 PBMC lymph.fcs	AtgE	wild	37.09677419	4	F	Y	N	blood	4-Aug
+505748	70	505748_Atg(E)	D7 AtgE 505748 PBMC lymph.fcs	AtgE	wild	31.57894737	3	F	N	N	blood	4-Aug
+505749	47	505749_Atg(W)	C5 AtgW 505749 PBMC lymph.fcs	B6	wild	22.90502793	4	F	Y	N	blood	4-Aug
+505750	55	505750_NOD2	E8 NOD2 505750 PBMC lymph.fcs	NOD2	wild	10.16949153	3	F	N	N	blood	4-Aug
+505751	76	505751_Atg(H)	C12 AtgH 505751 PBMC lymph.fcs	AtgH	wild	21.13402062	4	F	Y	N	blood	4-Aug
+505756	77	505756_Atg(H)	C11 AtgH 505756 PBMC lymph.fcs	AtgH	wild	53.84615385	4	F	Y	N	blood	4-Aug
+514851	56	514851_NOD2	D5 NOD2 514851 PBMC lymph.fcs	NOD2	wild	23.4939759	4	F	N	N	blood	4-Aug
+514855	57	514855_NOD2	E2 NOD2 514855 PBMC lymph.fcs	NOD2	wild	37.64044944	7	M	N	N	blood	4-Aug
+514857	48	514857_Atg(W)	C1 AtgW 514857 PBMC lymph.fcs	B6	wild	11.57024793	7	M	N	N	blood	4-Aug
+514957	78	514957_Atg(H)	E10 AtgH 514957 PBMC lymph.fcs	AtgH	wild	-1.515151515	8	M	N	N	blood	4-Aug
+515050	58	515050_NOD2	E7 NOD2 515050 PBMC lymph.fcs	NOD2	wild	45.27027027	3	F	N	N	blood	4-Aug
+515055	59	515055_NOD2	E4 NOD2 515055 PBMC lymph.fcs	NOD2	wild	-23.25581395	7	M	N	N	blood	4-Aug
+515056	79	515056_Atg(H)	C10 AtgH 515056 PBMC lymph.fcs	AtgH	wild	71.12299465	4	F	Y	N	blood	4-Aug
+515057	71	515057_Atg(E)	D8 AtgE 515057 PBMC lymph.fcs	AtgE	wild	55.84415584	3	F	Y	Y	blood	4-Aug
+515149	80	515149_Atg(H)	E12 AtgH 515149 PBMC lymph.fcs	AtgH	wild	6.995884774	7	M	N	N	blood	4-Aug
+515152	60	515152_NOD2	E1 NOD2 515152 PBMC lymph.fcs	NOD2	wild	48.27586207	4	F	N	N	blood	4-Aug
+515155	81	515155_Atg(H)	E11 AtgH 515155 PBMC lymph.fcs	AtgH	wild	10.89494163	8	M	N	N	blood	4-Aug
+515157	49	515157_Atg(W)	C2 AtgW 515157 PBMC lymph.fcs	B6	wild	6.770833333	3	F	Y	N	blood	4-Aug
+515249	61	515249_NOD2	E3 NOD2 515249 PBMC lymph.fcs	NOD2	wild	-5.579399142	7	M	N	N	blood	4-Aug
+515250	62	515250_NOD2	E5 NOD2 515250 PBMC lymph.fcs	NOD2	wild	9.195402299	3	F	N	N	blood	4-Aug
+515251	63	515251_NOD2	E6 NOD2 515251 PBMC lymph.fcs	NOD2	wild	46.15384615	3	F	N	N	blood	4-Aug
+515255	52	515255_B6	D4 B6 515255 PBMC lymph.fcs	B6	wild	42.40506329	3	F	Y	N	blood	4-Aug
+515350	82	515350_Atg(H)	E12 AtgH 515350 PBMC lymph.fcs	AtgH	wild	6.060606061	8	M	N	N	blood	4-Aug
+515353	50	515353_Atg(W)	C4 AtgW 515353 PBMC lymph.fcs	B6	wild	75.32467532	3	F	Y	N	blood	4-Aug
+515357	72	515357_Atg(E)	D10 AtgE 515357 PBMC lymph.fcs	AtgE	wild	13.25966851	3	F	N	N	blood	4-Aug
+515450	64	515450_NOD2	E4 NOD2 515450 PBMC lymph.fcs	NOD2	wild	36.07594937	3	F	N	N	blood	4-Aug
+515550	73	515550_Atg(E)	D2 AtgE 515550 PBMC lymph.fcs	AtgE	wild	26.94300518	4	F	Y	N	blood	4-Aug
+515652	83	515652_Atg(H)	C9 AtgH 515652 PBMC lymph.fcs	AtgH	wild	16.84782609	4	F	Y	N	blood	4-Aug
+515654	51	515654_B6	D3 B6 515654 PBMC lymph.fcs	B6	wild	47.05882353	3	F	Y	N	blood	4-Aug
+515749	74	515749_Atg(E)	D2 AtgE 515749 PBMC lymph.fcs	AtgE	wild	32.5	4	F	Y	N	blood	4-Aug
+515753	65	515753_NOD2	E9 NOD2 515753 PBMC lymph.fcs	NOD2	wild	35.48387097	3	F	N	N	blood	4-Aug
+515757	84	515757_Atg(H)	E11 AtgH 515757 PBMC lymph.fcs	AtgH	wild	11.11111111	7	M	N	N	blood	4-Aug
+59-1	36	59_1_lab_B6 	D1 B6 PBMC59-1 lymph.fcs	B6	lab	7.509881423	2517959	M	N	N	blood	28-Jul
+59-2	37	59_2_lab_B6 	D2 B6 PBMC59-2 lymph.fcs	B6	lab	7.8125	2517959	M	N	N	blood	28-Jul
+59-3	38	59_3_lab_B6 	D3 B6 PBMC59-3 lymph.fcs	B6	lab	6.25	2517959	M	N	N	blood	28-Jul
+59-4	39	59_4_lab_B6 	D4 B6 PBMC59-4 lymph.fcs	B6	lab	7.2	2517959	M	N	N	blood	28-Jul
+59-5	40	59_5_lab_B6 	D5 B6 PBMC59-5 lymph.fcs	B6	lab	4.564315353	2517959	M	N	N	blood	28-Jul
+61-1	27	61_1_lab_NOD2 	C1 NOD2 PBMC 61-1 lymph.fcs	NOD2	lab	14.79289941	2517961	F	N	N	blood	28-Jul
+61-2	28	61_2_lab_NOD2 	C2 NOD2 PBMC 61-2 lymph.fcs	NOD2	lab	7.73480663	2517961	F	N	N	blood	28-Jul
+61-3	29	61_3_lab_NOD2 	C3 NOD2 PBMC 61-3 lymph.fcs	NOD2	lab	15.625	2517961	F	N	N	blood	28-Jul
+61-4	30	61_4_lab_NOD2 	C4 NOD2 PBMC 61-4 lymph.fcs	NOD2	lab	16.93989071	2517961	F	N	N	blood	28-Jul
+66-1	31	66_1_lab_NOD2 	D7 NOD2 PBMC66-1 lymph.fcs	NOD2	lab	7.172995781	2517966	M	N	N	blood	28-Jul
+66-2	32	66_2_lab_NOD2 	D8 NOD2 PBMC66-2 lymph.fcs	NOD2	lab	9.917355372	2517966	M	N	N	blood	28-Jul
+66-3	33	66_3_lab_NOD2 	D9 NOD2 PBMC66-3 lymph.fcs	NOD2	lab	12.90322581	2517966	M	N	N	blood	28-Jul
+66-4	34	66_4_lab_NOD2 	D10 NOD2 PBMC66-4 lymph.fcs	NOD2	lab	8.733624454	2517966	M	N	N	blood	28-Jul
+66-5	35	66_5_lab_NOD2 	D11 NOD2 PBMC66-5 lymph.fcs	NOD2	lab	9.282700422	2517966	M	N	N	blood	28-Jul
+71-3	1	71_3_lab_Atg(E)	D6 AtgE PBMC 71-3 lymph.fcs	AtgE	lab	3.255813953	2538771	M	N	N	blood	28-Jul
+71-6	2	71_6_lab_Atg(E)	D7 AtgE PBMC 71-6 lymph.fcs	AtgE	lab	6.140350877	2538771	M	N	N	blood	28-Jul
+71-7	3	71_7_lab_Atg(E)	D8 AtgE PBMC 71-7 lymph.fcs	AtgE	lab	15.13761468	2538771	M	N	N	blood	28-Jul
+71-8	4	71_8_lab_Atg(E) 	D9 AtgE PBMC 71-8 lymph.fcs	AtgE	lab	9.561752988	2538771	M	N	N	blood	28-Jul
+71-9	5	71_9_lab_Atg(E) 	D10 AtgE PBMC 71-9 lymph.fcs	AtgE	lab	7.174887892	2538771	M	N	N	blood	28-Jul
+76-1	6	76_1_lab_Atg(E) 	E1 AtgE PBMC 76-1 lymph.fcs	AtgE	lab	15.96958175	2538776	M	N	N	blood	28-Jul
+76-2	7	76_2_lab_Atg(E) 	E2 AtgE PBMC 76-2 lymph.fcs	AtgE	lab	11.45038168	2538776	M	N	N	blood	28-Jul
+76-3	8	76_3_lab_Atg(E) 	E3 AtgE PBMC 76-3 lymph.fcs	AtgE	lab	17.12062257	2538776	M	N	N	blood	28-Jul
+76-4	9	76_4_lab_Atg(E) 	E4 AtgE PBMC 76-4 lymph.fcs	AtgE	lab	20.8	2538776	M	N	N	blood	28-Jul
+76-5	10	76_5_lab_Atg(E) 	E5 AtgE PBMC 76-5 lymph.fcs	AtgE	lab	17.4796748	2538776	M	N	N	blood	28-Jul
+78-84	16	78_84_lab_Atg(H) 	C6 AtgH PBMC 78-84 lymph.fcs	AtgH	lab	9.865470852	2517978	M	N	N	blood	28-Jul
+78-85	17	78_85_lab_Atg(H) 	C7 AtgH PBMC 78-85 lymph.fcs	AtgH	lab	5.936073059	2517978	M	N	N	blood	28-Jul
+86-3	18	86_3_lab_Atg(H) 	C8 AtgH PBMC 86-3 lymph.fcs	AtgH	lab	11.98156682	2538786	M	N	N	blood	28-Jul
+86-6	19	86_6_lab_Atg(H) 	C9 AtgH PBMC 86-6 lymph.fcs	AtgH	lab	12.67605634	2538786	M	N	N	blood	28-Jul
+86-7	20	86_7_lab_Atg(H) 	C10 AtgH PBMC 86-7 lymph.fcs	AtgH	lab	3.167420814	2538786	M	N	N	blood	28-Jul
+86-8	21	86_8_lab_Atg(H) 	C11 AtgH PBMC 86-8 lymph.fcs	AtgH	lab	4.608294931	2538786	M	N	N	blood	28-Jul
+86-9	22	86_9_lab_Atg(H) 	C12 AtgH PBMC 86-9 lymph.fcs	AtgH	lab	4.888888889	2538786	M	N	N	blood	28-Jul

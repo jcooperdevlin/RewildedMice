@@ -1,0 +1,68 @@
+GO biological process complete	Mus musculus - REFLIST (22296)	Client Text Box Input (204)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (raw P-value)	Client Text Box Input (FDR)
+transferrin transport (GO:0033572)	10	3	.09	+	32.79	1.96E-04	4.81E-02
+cellular response to interferon-beta (GO:0035458)	43	6	.39	+	15.25	5.22E-06	6.82E-03
+leukocyte cell-cell adhesion (GO:0007159)	48	6	.44	+	13.66	9.28E-06	8.08E-03
+myeloid cell activation involved in immune response (GO:0002275)	45	5	.41	+	12.14	8.87E-05	2.96E-02
+response to interferon-beta (GO:0035456)	54	6	.49	+	12.14	1.72E-05	1.04E-02
+T cell selection (GO:0045058)	48	5	.44	+	11.38	1.18E-04	3.55E-02
+alpha-beta T cell activation (GO:0046631)	72	6	.66	+	9.11	7.70E-05	2.68E-02
+positive regulation of leukocyte cell-cell adhesion (GO:1903039)	199	11	1.82	+	6.04	3.63E-06	5.18E-03
+positive regulation of T cell activation (GO:0050870)	184	10	1.68	+	5.94	1.17E-05	8.31E-03
+T cell differentiation (GO:0030217)	159	8	1.45	+	5.50	1.47E-04	4.20E-02
+leukocyte activation involved in immune response (GO:0002366)	162	8	1.48	+	5.40	1.66E-04	4.58E-02
+cell activation involved in immune response (GO:0002263)	166	8	1.52	+	5.27	1.95E-04	4.86E-02
+positive regulation of cell-cell adhesion (GO:0022409)	237	11	2.17	+	5.07	1.75E-05	1.02E-02
+T cell activation (GO:0042110)	264	12	2.42	+	4.97	8.85E-06	8.16E-03
+regulation of leukocyte cell-cell adhesion (GO:1903037)	281	12	2.57	+	4.67	1.61E-05	1.10E-02
+regulation of leukocyte mediated immunity (GO:0002703)	246	10	2.25	+	4.44	1.22E-04	3.60E-02
+regulation of T cell activation (GO:0050863)	299	12	2.74	+	4.39	2.89E-05	1.56E-02
+leukocyte activation (GO:0045321)	503	20	4.60	+	4.35	6.91E-08	3.61E-04
+regulation of immune effector process (GO:0002697)	410	16	3.75	+	4.27	1.89E-06	3.70E-03
+lymphocyte activation (GO:0046649)	415	16	3.80	+	4.21	2.19E-06	3.82E-03
+actin cytoskeleton organization (GO:0030036)	465	16	4.25	+	3.76	8.79E-06	8.62E-03
+cell activation (GO:0001775)	583	20	5.33	+	3.75	6.64E-07	1.74E-03
+regulation of cell-cell adhesion (GO:0022407)	386	13	3.53	+	3.68	7.68E-05	2.74E-02
+actin filament-based process (GO:0030029)	523	17	4.79	+	3.55	9.40E-06	7.76E-03
+cellular protein-containing complex assembly (GO:0034622)	681	20	6.23	+	3.21	6.50E-06	7.84E-03
+hemopoiesis (GO:0030097)	633	17	5.79	+	2.94	9.59E-05	3.13E-02
+hematopoietic or lymphoid organ development (GO:0048534)	692	18	6.33	+	2.84	8.84E-05	3.01E-02
+immune system development (GO:0002520)	726	18	6.64	+	2.71	1.58E-04	4.43E-02
+response to cytokine (GO:0034097)	732	18	6.70	+	2.69	1.75E-04	4.72E-02
+regulation of immune response (GO:0050776)	930	22	8.51	+	2.59	5.70E-05	2.24E-02
+regulation of immune system process (GO:0002682)	1479	33	13.53	+	2.44	2.94E-06	4.61E-03
+immune system process (GO:0002376)	2249	47	20.58	+	2.28	7.57E-08	2.97E-04
+protein-containing complex assembly (GO:0065003)	1318	27	12.06	+	2.24	1.35E-04	3.92E-02
+regulation of response to stress (GO:0080134)	1281	26	11.72	+	2.22	2.05E-04	4.94E-02
+negative regulation of macromolecule biosynthetic process (GO:0010558)	1360	27	12.44	+	2.17	1.79E-04	4.68E-02
+cellular component assembly (GO:0022607)	2144	41	19.62	+	2.09	6.92E-06	7.76E-03
+organelle organization (GO:0006996)	2957	56	27.06	+	2.07	1.24E-07	3.88E-04
+negative regulation of nitrogen compound metabolic process (GO:0051172)	2181	39	19.96	+	1.95	4.90E-05	2.08E-02
+cellular component biogenesis (GO:0044085)	2352	41	21.52	+	1.91	5.38E-05	2.16E-02
+negative regulation of cellular process (GO:0048523)	4482	77	41.01	+	1.88	7.10E-09	1.11E-04
+negative regulation of macromolecule metabolic process (GO:0010605)	2404	41	22.00	+	1.86	9.77E-05	3.13E-02
+regulation of molecular function (GO:0065009)	2452	41	22.43	+	1.83	1.76E-04	4.67E-02
+negative regulation of biological process (GO:0048519)	5005	81	45.79	+	1.77	4.47E-08	3.51E-04
+negative regulation of metabolic process (GO:0009892)	2663	43	24.37	+	1.76	2.07E-04	4.85E-02
+positive regulation of cellular metabolic process (GO:0031325)	3144	50	28.77	+	1.74	7.46E-05	2.72E-02
+response to stress (GO:0006950)	3064	48	28.03	+	1.71	2.07E-04	4.92E-02
+regulation of response to stimulus (GO:0048583)	3842	59	35.15	+	1.68	3.73E-05	1.72E-02
+cellular component organization (GO:0016043)	5086	74	46.53	+	1.59	1.65E-05	1.03E-02
+regulation of nitrogen compound metabolic process (GO:0051171)	4952	71	45.31	+	1.57	4.39E-05	1.91E-02
+positive regulation of cellular process (GO:0048522)	5244	75	47.98	+	1.56	2.95E-05	1.54E-02
+regulation of cellular metabolic process (GO:0031323)	5288	75	48.38	+	1.55	3.22E-05	1.58E-02
+regulation of macromolecule metabolic process (GO:0060255)	5232	74	47.87	+	1.55	4.31E-05	1.93E-02
+cellular component organization or biogenesis (GO:0071840)	5262	74	48.15	+	1.54	6.26E-05	2.34E-02
+regulation of primary metabolic process (GO:0080090)	5098	71	46.64	+	1.52	1.10E-04	3.39E-02
+regulation of metabolic process (GO:0019222)	5688	79	52.04	+	1.52	3.57E-05	1.70E-02
+positive regulation of biological process (GO:0048518)	5947	82	54.41	+	1.51	3.18E-05	1.61E-02
+regulation of biological process (GO:0050789)	11171	133	102.21	+	1.30	1.62E-05	1.06E-02
+regulation of cellular process (GO:0050794)	10472	124	95.81	+	1.29	9.78E-05	3.07E-02
+biological regulation (GO:0065007)	11782	139	107.80	+	1.29	1.12E-05	8.75E-03
+cellular process (GO:0009987)	13888	157	127.07	+	1.24	1.13E-05	8.47E-03
+biological_process (GO:0008150)	20427	200	186.90	+	1.07	1.89E-04	4.77E-02
+Unclassified (UNCLASSIFIED)	1869	4	17.10	-	.23	1.89E-04	4.85E-02
+G protein-coupled receptor signaling pathway (GO:0007186)	1842	3	16.85	-	.18	5.27E-05	2.17E-02
+nervous system process (GO:0050877)	2040	2	18.67	-	.11	1.75E-06	3.92E-03
+sensory perception (GO:0007600)	1606	1	14.69	-	.07	7.40E-06	7.73E-03
+sensory perception of smell (GO:0007608)	1121	0	10.26	-	 < 0.01	5.93E-05	2.27E-02
+sensory perception of chemical stimulus (GO:0007606)	1219	0	11.15	-	 < 0.01	2.74E-05	1.54E-02
